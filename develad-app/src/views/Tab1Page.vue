@@ -13,6 +13,8 @@
       </ion-header>
 
       <ExploreContainer name="Tab 1 page" />
+
+      <iframe src="https://example.com" width="100%" height="500px"></iframe>
     </ion-content>
   </ion-page>
 </template>
